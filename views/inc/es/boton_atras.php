@@ -1,0 +1,1 @@
+<p class="text-end m-3"><a href="javascript:void(0);" class="btn btn-outline-secondary" onclick="btn_go_back()"><i class="fas fa-reply"></i> Regresar</a></p>
